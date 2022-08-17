@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Vladyslav Kuchmenko</h1>
+<h3 align="left">Front-end developer with the Angular framework. Graduated in Computer Engineering and passionate about Virtual Reality</h3>
+
+- 🔭 I’m currently working on [Neuromobile Marketing Activo](https://neuromobile.es/)
+- 🌱 I’m currently learning [GraphQL](https://graphql.org/)
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-kuchmenko-%F0%9F%87%BA%F0%9F%87%A6-966a82151/)
 
 <!--
 **vladern/vladern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
