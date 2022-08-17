@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vladyslav Kuchmenko</h1>
-<h3 align="left">Front-end developer with the Angular framework. Graduated in Computer Engineering and passionate about Virtual Reality</h3>
+<h3 align="left">Front-end developer with the Angular framework. Graduated in Computer Engineering by University of Alicante and passionate about Virtual Reality</h3>
 
 - 🔭 I’m currently working on [Neuromobile Marketing Activo](https://neuromobile.es/)
 - 🌱 I’m currently learning [GraphQL](https://graphql.org/)
