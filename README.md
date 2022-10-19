@@ -2,7 +2,7 @@
 <h3 align="left">Front-end developer with the Angular framework. Graduated in Computer Engineering by University of Alicante and passionate about Virtual Reality</h3>
 
 - 🔭 I’m currently working on [Neuromobile Marketing Activo](https://neuromobile.es/)
-- 🌱 I’m currently learning [GraphQL](https://graphql.org/)
+- 🌱 I’m currently learning [React JS](https://reactjs.org/)
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-kuchmenko-%F0%9F%87%BA%F0%9F%87%A6-966a82151/)
 
 <!--
