@@ -1,21 +1,28 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Vladyslav Kuchmenko</h1>
-<h3 align="left">Front-end developer with the Angular framework. Graduated in Computer Engineering by University of Alicante and passionate about Virtual Reality</h3>
+# Hi there 👋
 
-- 🔭 I’m currently working on [Neuromobile Marketing Activo](https://neuromobile.es/)
-- 🌱 I’m currently learning [React JS](https://reactjs.org/)
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-kuchmenko-%F0%9F%87%BA%F0%9F%87%A6-966a82151/)
+I'm Vladyslav Kuchmenko, a frontend developer and team lead at Neuromobile.
 
-<!--
-**vladern/vladern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on ...
 
-Here are some ideas to get you started:
+- Developing web applications using NextJS framework and RESTful APIs
+- Designing and implementing user interfaces using HTML, CSS and JavaScript
+- Collaborating with backend developers and product managers to ensure quality and functionality of web products
+- Testing and debugging web applications using tools like Storybook, React testing library and Zepelin
+- Mentoring junior developers and providing feedback and guidance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning ...
+
+- Advanced TypeScript features and best practices
+- DDD with framwork of NextJS
+- TDD on frontend
+
+## 📫 How to reach me ...
+
+- Email: vladys.3234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vladyslav-kuchmenko-🇺🇦-966a82151/
+
+## ⚡ Fun fact ...
+
+- I'm fluent in four languages: Spanish, English, Ukrainian and Russian
+- I'm passionate about Virtual Reality and AI
+- I love playing sports like Basketball, Table tennis and Tennis
