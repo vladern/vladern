@@ -16,6 +16,14 @@ I'm Vladyslav Kuchmenko, a frontend developer and team lead at Neuromobile.
 - DDD with framwork of NextJS
 - TDD on frontend
 
+## 🌐 Portfolio projects
+- CryptoBank: is a web application that displays a list of accounts with their balances and balances available in BTC (bitcoin) and its equivalent in dollars. CryptoBank uses cutting-edge technologies such as Angular and NestJS. CryptoBank aims to be an innovative and disruptive solution for the financial sector, offering its clients a more accessible, flexible and profitable alternative to traditional banks.
+  - [View Project](https://crypto-bank-five.vercel.app)
+  - [View Github Project](https://github.com/vladern/crypto-bank)
+- MemoryGame: This project is a web application that implements a classic memory game. The objective is to find all the pairs of images in a grid of cards shown on the back. The game ends when all pairs have been revealed.
+  - [View Project](https://memory-game-seven-dun.vercel.app)
+  - [View Github Project](https://github.com/vladern/memory-game)
+
 ## 📫 How to reach me ...
 
 - Email: vladys.3234@gmail.com
@@ -23,6 +31,6 @@ I'm Vladyslav Kuchmenko, a frontend developer and team lead at Neuromobile.
 
 ## ⚡ Fun fact ...
 
-- I'm fluent in four languages: Spanish, English, Ukrainian and Russian
+- I'm fluent in four languages: Spanish, English, Ukrainian and Calatalan
 - I'm passionate about Virtual Reality and AI
 - I love playing sports like Basketball, Table tennis and Tennis
