@@ -4,7 +4,7 @@ I'm Vladyslav Kuchmenko, a frontend developer and team lead at Neuromobile.
 
 ## 🔭 I’m currently working on ...
 
-- Developing web applications using NextJS framework and RESTful APIs
+- Developing web applications using NextJS framework and Backend for Frontend APIs
 - Designing and implementing user interfaces using HTML, CSS and JavaScript
 - Collaborating with backend developers and product managers to ensure quality and functionality of web products
 - Testing and debugging web applications using tools like Storybook, React testing library and Zepelin
