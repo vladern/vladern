@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Vladyslav Kuchmenko, a frontend developer and team lead at Neuromobile.
+I'm Vladyslav Kuchmenko, a frontend developer and team lead at Durcal.
 
 ## 🔭 I’m currently working on ...
 
